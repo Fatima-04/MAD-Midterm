@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FatimaTuzZahra_COMP304_001_HandsOn_Test1_S24</string>
+    <string name="txtTitle">Brain Challenge</string>
+    <string name="txtSubTitle">Challenge your brain with scientifically designed exercises</string>
+    <string name="btnSelect">Select Exercises</string>
+    <string name="btnNext">Next</string>
+    <string name="chk1">Lose Things</string>
+    <string name="chk2">Remember names</string>
+    <string name="chk3">Lose things quickly</string>
+    <string name="chk4">Keep track of multiple things</string>
+
+    <string-array name="y_coordinates">
+
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+        <item>100</item>
+        <item>150</item>
+    </string-array>
+</resources>
